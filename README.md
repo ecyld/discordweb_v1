@@ -1,4 +1,18 @@
 # discordweb_v1
+
+Discordweb first version is ready!
+# Pictures
+<img src=https://webailesi.com/upload/cdn/16/5ef3c800aeb87_screenshot_1.png>
+
+<img src=https://webailesi.com/upload/cdn/16/5ef3c8022b166_screenshot_4.png>
+
+<img src=https://webailesi.com/upload/cdn/16/5ef3c8010a759_screenshot_3.png>
+
+<li>Admin Panel</li>
+
+<li>Server User Stats (Total User/BOTs/Real Users)</li>
+
+
 <h4>Questions & Answers</h4>
      <li><strong>It is for what?</strong></li> I used teamspeak3 before. LGSL was available for it so i want make a LGSL style server stats design for Discord
     <li><strong>How you did it?</strong></li> With using Discord's free API

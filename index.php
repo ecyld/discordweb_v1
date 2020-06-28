@@ -56,7 +56,7 @@ $veri_cek = [
 $json_context = stream_context_create($veri_cek);
 
 
-$users     = file_get_contents('https://discordapp.com/api/guilds/'.$serverid.'/members?limit=1000', false, $json_context);
+
 
 $infos     = file_get_contents('https://discordapp.com/api/guilds/'.$serverid.'?with_counts=true', false, $json_context);
 

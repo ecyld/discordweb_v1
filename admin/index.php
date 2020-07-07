@@ -23,7 +23,7 @@ if(!isset($_SESSION["login"])){ ?>
   </div>
       <div class="form-group">
     <label>Password: </label>
-    <input type="text" name="password" class="form-control" required>
+    <input type="password" name="password" class="form-control" required>
   </div>
   <button type="submit" class="btn btn-primary">Log in</button>
 </form>

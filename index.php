@@ -1,6 +1,3 @@
-
- 
-
 <?php
 include 'admin/config.php';
 
@@ -69,11 +66,11 @@ $svname  = json_decode($infos, false);
       <td>    <?php if(!$svname->icon){ echo '#'; } else{ echo '<img src="https://cdn.discordapp.com/icons/'.$serverid.'/'; echo $svname->icon;  echo '"class="rounded-circle" alt="Sunucu Icon" width="30px" heigh="30px">'; }?></td>
       <td><?php if(!$svname->name){echo 'NO INFO';}else{ echo $svname->name; }?></td>
       <td><?php 
-      if(!$members->presence_count) {
+      if(!$svname->approximate_presence_count) {
         echo 'NO INFO';
 
       }else{
-      echo $members->presence_count; }
+      echo $svname->approximate_presence_count; }
      ?> / <?php if(!$svname->approximate_member_count) {
         echo 'NO INFO';
 

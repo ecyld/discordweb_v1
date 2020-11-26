@@ -1,12 +1,6 @@
 # discordweb_v1
 
 Discordweb first version is ready!
-# Pictures
-<img src=https://webailesi.com/upload/cdn/16/5ef3c800aeb87_screenshot_1.png>
-
-<img src=https://webailesi.com/upload/cdn/16/5ef3c8022b166_screenshot_4.png>
-
-<img src=https://webailesi.com/upload/cdn/16/5ef3c8010a759_screenshot_3.png>
 
 <li>Admin Panel</li>
 

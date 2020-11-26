@@ -1,5 +1,7 @@
 # discordweb_v1
 
+For Support: https://discord.gg/smVXCXs
+
 Discordweb first version is ready!
 
 <li>Admin Panel</li>

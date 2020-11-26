@@ -30,3 +30,5 @@ Discordweb first version is ready!
                 <li><strong>Upload .sql file from phpmyadmin</strong></li>
                 <li><strong>Start using!</strong></li>
     </center>
+    
+    Need to enable "Privileged Gateway Intents"
